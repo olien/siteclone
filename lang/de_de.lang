@@ -1,0 +1,14 @@
+website_manager_siteclone = SiteClone
+website_manager_siteclone_help = SiteClone Plugin for Website Manager
+website_manager_siteclone_settings = Einstellungen
+website_manager_siteclone_settings_clone_structure = Struktur klonen
+website_manager_siteclone_settings_clone_slices = Blöcke klonen
+website_manager_siteclone_settings_clone_media = Medien klonen
+website_manager_siteclone_settings_clone_strings = Strings klonen<br />(String Table Addon)
+website_manager_siteclone_settings_empty_strings = Strings leeren<br />(String Table Addon)
+website_manager_siteclone_settings_copy_file = Datei kopieren<br />(Platzhalter {id} möglich)
+website_manager_siteclone_settings_source_webiste_id = ID der Quell-Website
+website_manager_siteclone_config_ok = Einstellungen wurden aktualisiert.
+website_manager_siteclone_config_error = Einstellungen konnte nicht gespeichert werden!
+website_manager_siteclone_install_make_dir = Der Ordner "/redaxo/include/{0}/" kann nicht angelegt werden, überprüfen Sie die Schreibrechte oder legen Sie den Ordner von Hand an und geben ihm Schreibrechte.
+website_manager_siteclone_install_perm_dir = Der Ordner "/redaxo/include/{0}/" benötigt Schreibrechte!
